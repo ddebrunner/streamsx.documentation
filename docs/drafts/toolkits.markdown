@@ -26,7 +26,7 @@ Streams applications. A common location is `$HOME/toolkits` or `project_root/too
 | <a href="http://ibmstreams.github.io/streamsx.datetime/" >com.ibm.streamsx.datetime</a> | Date and time utilities | <a href="http://ibmstreams.github.io/streamsx.datetime/com.ibm.streamsx.datetime/doc/spldoc/html/index.html">spldoc</a> | <a href="https://github.com/IBMStreams/streamsx.datetime/releases/tag/v1.1.0" >1.1.0</a>, <a href="https://github.com/IBMStreams/streamsx.datetime/releases" >all</a> |
 | <a href="http://ibmstreams.github.io/streamsx.inet/" >com.ibm.streamsx.inet</a> | Common internet protocols, such as TCP, HTTP & WebSockets | <a href="http://ibmstreams.github.io/streamsx.inet/com.ibm.streamsx.inet/doc/spldoc/html/index.html">spldoc</a> | <a href="https://github.com/IBMStreams/streamsx.inet/releases/tag/v2.7.0" >2.7.0</a>, <a href="https://github.com/IBMStreams/streamsx.inet/releases/tag/v2.0.2" >2.0.2</a>, <a href="https://github.com/IBMStreams/streamsx.inet/releases" >all</a> |
 | <a href="http://ibmstreams.github.io/streamsx.json/" >com.ibm.streamsx.json</a> | Support for JSON in SPL| <a href="http://ibmstreams.github.io/streamsx.json/com.ibm.streamsx.json/doc/spldoc/html/index.html">spldoc</a> | <a href="https://github.com/IBMStreams/streamsx.json/releases/tag/v1.1.1" >1.1.1</a>, <a href="https://github.com/IBMStreams/streamsx.json/releases" >all</a> |
-| <a href="http://ibmstreams.github.io/streamsx.messaaging/" >com.ibm.streamsx.messaging</a> | Messaging integration such as JMS, MQTT, MQ| <a href="http://ibmstreams.github.io/streamsx.json/com.ibm.streamsx.messaging/doc/spldoc/html/index.html">spldoc</a> | <a href="https://github.com/IBMStreams/streamsx.messaging/releases/tag/v3.0.0" >3.0.0</a>, <a href="https://github.com/IBMStreams/streamsx.messaging/releases" >all</a> |
+| <a href="http://ibmstreams.github.io/streamsx.messaaging/" >com.ibm.streamsx.messaging</a> | Messaging integration such as JMS, MQTT, MQ| <a href="http://ibmstreams.github.io/streamsx.messaging/com.ibm.streamsx.messaging/doc/spldoc/html/index.html">spldoc</a> | <a href="https://github.com/IBMStreams/streamsx.messaging/releases/tag/v3.0.0" >3.0.0</a>, <a href="https://github.com/IBMStreams/streamsx.messaging/releases" >all</a> |
 | <a href="http://ibmstreams.github.io/streamsx.topology/" >com.ibm.streamsx.topology</a> | Application development with Java & Scala | <a href="http://ibmstreams.github.io/streamsx.topology/doc/javadoc/index.html">javadoc</a>, <a href="http://ibmstreams.github.io/streamsx.topology/doc/scaladoc/html/index.html">scaladoc</a> <a href="http://ibmstreams.github.io/streamsx.topology/doc/spldoc/html/index.html">spldoc</a> | <a href="https://github.com/IBMStreams/streamsx.topology/releases/tag/v1.1.2" >1.1.2</a>, <a href="https://github.com/IBMStreams/streamsx.topology/releases" >all</a> |
 
 # Toolkits without releases
@@ -34,11 +34,11 @@ Streams applications. A common location is `$HOME/toolkits` or `project_root/too
 Toolkits without a release require you to download the project source and possibly build the toolkit yourself.
 Documentation may not be provided and a user focused web-site may not exist, instead the project site is the source of information.
 
-
-Contributions that help to are always welcome.
+*Contributions that help the toolkit get closer to a releasable state are always welcome!*
 
 | Toolkit | Description | Documentation |
 | ------- |-------------| ------- |
+| <a href="http://ibmstreams.github.io/streamsx.iotf/" >com.ibm.streamsx.iotf</a> | Integration with IBM Internet of Things Foundation | <a href="http://ibmstreams.github.io/streamsx.iotf/doc/spldoc/html/index.html">spldoc</a> |
 | <a href="https://github.com/IBMStreams/streamsx.plumbing" >com.ibm.streamsx.plumbing</a> | Manipulation of tuple flows |  |
 
 

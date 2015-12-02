@@ -42,5 +42,6 @@ Documentation may not be provided and a user focused web-site may not exist, ins
 | ------- |-------------| ------- |
 | <a href="http://ibmstreams.github.io/streamsx.iotf/" >com.ibm.streamsx.iotf</a> | Integration with IBM Internet of Things Foundation | <a href="http://ibmstreams.github.io/streamsx.iotf/doc/spldoc/html/index.html">spldoc</a> |
 | <a href="https://github.com/IBMStreams/streamsx.plumbing" >com.ibm.streamsx.plumbing</a> | Manipulation of tuple flows |  |
+| <a href="https://github.com/IBMStreams/streamsx.transportation" >com.ibm.streamsx.transportation</a> | Live feeds of transportation data sources, such as NextBus |  |
 
 

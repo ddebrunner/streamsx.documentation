@@ -5,21 +5,23 @@ description: IBMStreams Tookits @ github
 weight: 1
 ---
 
-# IBMStreams@github.com - Open Source Toolkits 
+# IBMStreams - Open Source Toolkits 
 ## Overview
-If you're viewing this page, it's likely that you haven't worked with the Java Application API before, or possibly streaming applications in general. In this document, we discuss at a high level the general principles behind streaming application development and the benefits of the Java Application API, and  we demonstrate these in a sample application.
+
+IBMStreams at github contains many open-source toolkits for IBM Streams.
 
 # Released Toolkits
 
-These toolkits provide a release that is ready to be used in an SPL application.
+These toolkits provide a release that is ready to be used in an IBM Streams application.
 
 To use download the tar archive from the project's releases page and then
-unpack into a location you will include in your toolkit list when compiling
+unpack into a location you will include in your toolkit path when compiling
 Streams applications. A common location is `$HOME/toolkits` or `project_root/toolkits` for shared environments.
 
-| Toolkit | Description | SPLDOC | Releases |
+| Toolkit | Description | Documentation | Releases |
 | ------- |-------------| -------| ---------|
-| <a href="http://ibmstreams.github.io/streamsx.inet/" >com.ibm.streamsx.inet</a> | inet description | <a href="https://github.com/IBMStreams/streamsx.inet/releases/tag/v2.0.2" >2.0.2</a>, <a href="https://github.com/IBMStreams/streamsx.inet/releases" >all</a> 
+| <a href="http://ibmstreams.github.io/streamsx.datetime/" >com.ibm.streamsx.datetime</a> | Date and time utilities | <a href="http://ibmstreams.github.io/streamsx.datetime/com.ibm.streamsx.datetime/doc/spldoc/html/index.html">spldoc</a> | <a href="https://github.com/IBMStreams/streamsx.datetime/releases/tag/v1.1.0" >1.1.0</a>, <a href="https://github.com/IBMStreams/streamsx.datetime/releases" >all</a> |
+| <a href="http://ibmstreams.github.io/streamsx.inet/" >com.ibm.streamsx.inet</a> | Common internet protocols, such as TCP, HTTP & WebSockets | <a href="http://ibmstreams.github.io/streamsx.inet/com.ibm.streamsx.inet/doc/spldoc/html/index.html">spldoc</a> | <a href="https://github.com/IBMStreams/streamsx.inet/releases/tag/v2.7.0" >2.7.0</a>, <a href="https://github.com/IBMStreams/streamsx.inet/releases/tag/v2.0.2" >2.0.2</a>, <a href="https://github.com/IBMStreams/streamsx.inet/releases" >all</a> |
 
 # Toolkits without releases
 

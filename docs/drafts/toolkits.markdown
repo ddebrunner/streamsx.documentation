@@ -51,8 +51,11 @@ Documentation may not be provided and a user focused web-site may not exist, ins
 | Toolkit | Description | Documentation |
 | ------- |-------------| ------- |
 | <a href="https://github.com/IBMStreams/streamsx.cdc" >com.ibm.streamsx.cdc</a> | Integration with InfoSphere Data replication CDC |  |
+| <a href="http://ibmstreams.github.io/streamsx.document/" >com.ibm.streamsx.document</a> | Extraction of information from documents | <a href="http://ibmstreams.github.io/streamsx.document/com.ibm.streamsx.document/doc/spldoc/html/index.html">spldoc</a> |
 | <a href="http://ibmstreams.github.io/streamsx.iotf/" >com.ibm.streamsx.iotf</a> | Integration with IBM Internet of Things Foundation | <a href="http://ibmstreams.github.io/streamsx.iotf/doc/spldoc/html/index.html">spldoc</a> |
+| <a href="https://github.com/IBMStreams/streamsx.ngrams" >com.ibm.streamsx.ngrams</a> | N-grams |  |
 | <a href="https://github.com/IBMStreams/streamsx.plumbing" >com.ibm.streamsx.plumbing</a> | Manipulation of tuple flows |  |
+| <a href="https://github.com/IBMStreams/streamsx.social" >com.ibm.streamsx.social</a> | Social media live feeds |  |
 | <a href="http://ibmstreams.github.io/streamsx.transform/" >com.ibm.streamsx.transform</a> | Data transformations |  |
 | <a href="https://github.com/IBMStreams/streamsx.transportation" >com.ibm.streamsx.transportation</a> | Live feeds of transportation data sources, such as NextBus |  |
 
